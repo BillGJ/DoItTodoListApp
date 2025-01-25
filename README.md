@@ -1,6 +1,6 @@
 # Do It - Todo List App
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/jGOsukZJT9A>
 #### Description: A very modern Swift and SwiftUI Todo List iOS App that allows users to keep track of their "todos" or tasks if you will
 
 
